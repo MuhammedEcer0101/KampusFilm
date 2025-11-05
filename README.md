@@ -1,1 +1,1 @@
-Kampüs Film Link:kampus-film-rho.vercel.app
+Kampüs Film Link: kampus-film-rho.vercel.app
